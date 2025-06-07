@@ -1,5 +1,5 @@
----
 **Navigation:** [🏠 Home](README.md) | [📂 Projects](projects.md) | [🎵 Music](music.md)
+
 ---
 
 # martelloni.github.io
