@@ -2,23 +2,7 @@
 
 # About
 
-Welcome! I'm Andrea Martelloni, and this is my personal corner of the web.
+I am an audio software engineer and researcher from the UK, with a PhD in Artificial Intelligence and Music. With over a decade of experience spanning DSP algorithm development, embedded systems, and pioneering work in AI/ML for audio, I am passionate about translating complex signal processing and machine learning concepts into innovative real-world applications for the creative industries and beyond.
 
-## Who I Am
+My background includes bringing numerous products in professional and consumer electronics to fruition, from active noise-cancelling headphones and video encoders to guitar/bass amplifiers. My recent research in edge AI, including the development of the **MEML** framework for on-device training, has deepened my focus on the potential and challenges of deploying small, efficient AI models for real-time signal manipulation and gesture recognition. The **HITar**, an AI-augmented acoustic guitar and international award winner, exemplifies my commitment to designing responsive, intimate, and cutting-edge musical interactions. I thrive on leveraging deep technical expertise to create impactful and engaging user experiences.
 
-I'm passionate about technology, creativity, and exploring the world. Whether it's through code, music, or capturing beautiful moments like the landscapes of Iceland, I love creating and sharing experiences.
-
-## What You'll Find Here
-
-- **Projects**: My technical work and contributions
-- **Music**: Musical interests, compositions, and discoveries
-- **Adventures**: Travel experiences and photography
-- **Thoughts**: Reflections on technology, creativity, and life
-
-## Get in Touch
-
-Feel free to connect with me through any of the social links above. I'm always interested in collaborating on interesting projects or discussing shared interests.
-
----
-
-*This site is a work in progress - more content coming soon!*
