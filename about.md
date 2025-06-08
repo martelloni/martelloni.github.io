@@ -1,5 +1,56 @@
 {% include header.html %}
 
+<style>
+/* Mobile-first styles */
+.responsive-work-history-table {
+  width: 100%;
+  /* border-collapse: collapse; /* Not strictly needed for display:block */
+}
+
+.responsive-work-history-table th,
+.responsive-work-history-table td {
+  display: block; /* Stack table cells */
+  width: 100% !important; /* Ensure full width */
+  box-sizing: border-box; /* Consistent box model */
+  padding: 0 0 1em 0; /* Space below each stacked item */
+  text-align: left !important; /* Prefer left-align for stacked content */
+}
+
+/* Remove bottom padding from the very last cell in a table instance */
+.responsive-work-history-table tr:last-child td:last-child {
+  padding-bottom: 0;
+}
+
+/* Desktop and larger screen styles */
+@media (min-width: 768px) { /* Adjust breakpoint as needed */
+  .responsive-work-history-table {
+    table-layout: fixed; /* Use fixed layout for precise column widths */
+    border-collapse: collapse; /* Standard for tables */
+  }
+
+  .responsive-work-history-table th,
+  .responsive-work-history-table td {
+    display: table-cell; /* Revert to table cell behavior */
+    width: auto !important; /* Reset mobile width */
+    padding: 8px; /* Uniform padding for cells */
+    vertical-align: top; /* Align content to the top */
+    /* text-align will revert to default or can be set if needed */
+  }
+
+  /* First column (dates) */
+  .responsive-work-history-table tr td:first-child { /* Applies to the date cell due to rowspan */
+    width: 20% !important;
+  }
+
+  /* Second column (job title/description) */
+  .responsive-work-history-table tr td:nth-child(2) { /* Applies to the title cell */
+    width: 80% !important;
+  }
+  /* The description cell (in the second row) will automatically fall into the second column
+     and adopt its width due to table-layout:fixed and the rowspan from the date cell. */
+}
+</style>
+
 # About
 
 I am an audio software engineer and researcher from the UK, with a PhD in Artificial Intelligence and Music. With over a decade of experience spanning DSP algorithm development, embedded systems, and pioneering work in AI/ML for audio, I am passionate about translating complex signal processing and machine learning concepts into innovative real-world applications for the creative industries and beyond.
@@ -7,6 +58,23 @@ I am an audio software engineer and researcher from the UK, with a PhD in Artifi
 My background includes bringing numerous products in professional and consumer electronics to fruition, from active noise-cancelling headphones and video encoders to guitar/bass amplifiers. My recent research in edge AI, including the development of the **MEML** framework for on-device training, has deepened my focus on the potential and challenges of deploying small, efficient AI models for real-time signal manipulation and gesture recognition. The **HITar**, an AI-augmented acoustic guitar and international award winner, exemplifies my commitment to designing responsive, intimate, and cutting-edge musical interactions. I thrive on leveraging deep technical expertise to create impactful and engaging user experiences.
 
 ## Recent Work History
+
+
+<table class="responsive-work-history-table">
+<tr>
+<td rowspan=2><strong>June 2024<br>Present (end Oct 2025)</strong></td>
+<td><strong>University of Sussex</strong> – Brighton, UK<br><strong>Research Fellow in Musical Instrument Design and Creative Machine Learning</strong></td>
+</tr>
+<tr>
+<td>
+<ul>
+<li>Research Musically Embodied Machine Learning and train AI models through musical interfaces in real time on RP2350 and XMOS Xcore.ai embedded platforms.</li>
+<li>Create <strong>meMLP</strong>, an edge AI library with support for RL and on-device training.</li>
+</ul>
+</td>
+</tr>
+</table>
+
 
 ### **University of Sussex** – Brighton, UK
 **Research Fellow in Musical Instrument Design and Creative Machine Learning**
