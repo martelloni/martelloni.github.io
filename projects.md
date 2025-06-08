@@ -30,35 +30,29 @@ Imagine triggering a loop with a tap on the guitar's side. Imagine playing amazi
 
 ### Accolades, press coverage
 
-<div style="text-align: center;">
-  <table style="margin-left: auto; margin-right: auto; border-collapse: collapse;">
-    <tr>
-      <td style="text-align: center; padding: 10px; vertical-align: center;">
-        <img src="assets/images/midi_innovation_awards.svg" alt="MIDI Innovation Awards Logo" style="height: 60px; background-color: white; display: block; margin-left: auto; margin-right: auto;">
-      </td>
-      <td style="text-align: center; padding: 10px; vertical-align: center;">
-        <img src="assets/images/guthman.svg" alt="Guthman Musical Instrument Competition Logo" style="height: 30px; background-color: white; display: block; margin-left: auto; margin-right: auto;">
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align: center; padding: 10px; vertical-align: top;">
-        <a href="https://www.youtube.com/watch?v=UGrzDVyRYgg"><strong>MIDI Innovation Awards 2023</strong></a><br>Best hardware prototype
-      </td>
-      <td style="text-align: center; padding: 10px; vertical-align: top;">
-        <a href="https://www.youtube.com/watch?v=2gYUdgnksj8"><strong>Guthman Musical Instrument Competition 2023</strong></a><br>Third place
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" style="text-align: center; padding: 10px; vertical-align: center;">
-        <img src="assets/images/queen_mary_impact_fund.jpg" alt="Queen Mary Impact Fund Logo" style="height: 60px; background-color: white; display: block; margin-left: auto; margin-right: auto;">
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" style="text-align: center; padding: 10px; vertical-align: top;">
-        <strong>Queen Mary Impact Fund</strong><br>2x recipient
-      </td>
-    </tr>
-  </table>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; margin-top: 15px; margin-bottom: 15px;">
+
+  <div style="display: flex; flex-direction: column; align-items: center; text-align: center; padding: 10px; width: 30%; min-width: 220px; box-sizing: border-box;">
+    <div style="height: 60px; display: flex; align-items: center; justify-content: center; margin-bottom: 5px;">
+      <img src="assets/images/midi_innovation_awards.svg" alt="MIDI Innovation Awards Logo" style="height: 60px; background-color: white; max-width: 100%;">
+    </div>
+    <a href="https://www.youtube.com/watch?v=UGrzDVyRYgg"><strong>MIDI Innovation Awards 2023</strong></a><br>Best hardware prototype
+  </div>
+
+  <div style="display: flex; flex-direction: column; align-items: center; text-align: center; padding: 10px; width: 30%; min-width: 220px; box-sizing: border-box;">
+    <div style="height: 60px; display: flex; align-items: center; justify-content: center; margin-bottom: 5px;">
+      <img src="assets/images/guthman.svg" alt="Guthman Musical Instrument Competition Logo" style="height: 30px; background-color: white; max-width: 100%;">
+    </div>
+    <a href="https://www.youtube.com/watch?v=2gYUdgnksj8"><strong>Guthman Competition 2023</strong></a><br>Third place
+  </div>
+
+  <div style="display: flex; flex-direction: column; align-items: center; text-align: center; padding: 10px; width: 30%; min-width: 220px; box-sizing: border-box;">
+    <div style="height: 60px; display: flex; align-items: center; justify-content: center; margin-bottom: 5px;">
+      <img src="assets/images/queen_mary_impact_fund.jpg" alt="Queen Mary Impact Fund Logo" style="height: 60px; background-color: white; max-width: 100%;">
+    </div>
+    <strong>Queen Mary Impact Fund</strong><br>2x recipient
+  </div>
+
 </div>
 
 Exhibited at:
