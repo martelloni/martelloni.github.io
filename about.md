@@ -87,9 +87,38 @@
   color: #555;
   background-color: #f9f9f9;
 }
+
+.responsive-about-image-container {
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 30px;
+}
+
+.responsive-about-image {
+  width: 100%;
+  max-width: 700px; /* Adjust max-width as desired */
+  aspect-ratio: 4/3;
+  object-fit: cover;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 8px; /* Optional: for rounded corners */
+}
+
+@media (min-width: 768px) { /* Adjust breakpoint as needed */
+  .responsive-about-image {
+    aspect-ratio: 16/9;
+    object-position: center top; /* Keeps the top portion, centered horizontally */
+  }
+}
 </style>
 
 # About
+
+<div class="responsive-about-image-container">
+  <img src="assets/images/iceland_mountain.jpg" alt="Me after climbing most of Akrafjall" class="responsive-about-image" />
+  <p style="font-style: italic; margin-top: 10px; font-size: 0.9em;">Me after climbing most of <a href="https://maps.app.goo.gl/GhhZUYdnHckaFV4K9">Akrafjall</a></p>
+</div>
 
 I am an audio software engineer and researcher from the UK, with a PhD in Artificial Intelligence and Music. With over a decade of experience spanning DSP algorithm development, embedded systems, and pioneering work in AI/ML for audio, I am passionate about translating complex signal processing and machine learning concepts into innovative real-world applications for the creative industries and beyond.
 
