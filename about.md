@@ -75,52 +75,82 @@ My background includes bringing numerous products in professional and consumer e
 </tr>
 </table>
 
+<br> <!-- Add some space between tables -->
 
-### **University of Sussex** – Brighton, UK
-**Research Fellow in Musical Instrument Design and Creative Machine Learning**
-*June 2024 – Present (end Oct 2025)*
+<table class="responsive-work-history-table">
+<tr>
+<td rowspan=2><strong>September 2023<br>Present (end Jul 2025)</strong></td>
+<td><strong>Queen Mary University of London</strong> – London, UK<br><strong>Research Assistant – Impact Fund grant “HITar”</strong></td>
+</tr>
+<tr>
+<td>
+<ul>
+<li>Spearhead commercialisation of the HITar: protect IP, devise business model and sales funnel, and drive customer engagement.</li>
+<li>Exhibit the HITar at trade shows (Music China 2023, NAMM 2024).</li>
+</ul>
+</td>
+</tr>
+</table>
 
-*   Research Musically Embodied Machine Learning and train AI models through musical interfaces in real time on RP2350 and XMOS Xcore.ai embedded platforms.
-*   Create **meMLP**, an edge AI library with support for RL and on-device training.
-    🔗 [meMLP GitHub](https://github.com/MusicallyEmbodiedML/memlp)
----
+<br> <!-- Add some space between tables -->
 
-### **Queen Mary University of London** – London, UK
-**Research Assistant – Impact Fund grant “HITar”**
-*September 2023 – Present (end Jul 2025)*
+<table class="responsive-work-history-table">
+<tr>
+<td rowspan=2><strong>September 2017<br>December 2019</strong></td>
+<td><strong>ams AG (Semiconductors and sensors)</strong> – Stokenchurch, UK<br><strong>Digital Signal Processor Software Engineer</strong></td>
+</tr>
+<tr>
+<td>
+<ul>
+<li>Implement adaptive hybrid Active Noise Cancellation (ANC) algorithms.</li>
+<li>Develop Automatic Leakage Compensation on the proprietary AS3460 chip.</li>
+<li>Drive product development from research simulation to finished product within one year, collaborating closely with acoustical engineering.</li>
+</ul>
+</td>
+</tr>
+</table>
 
-*   Spearhead commercialisation of the HITar: protect IP, devise business model and sales funnel, and drive customer engagement.
-*   Exhibit the HITar at trade shows (Music China 2023, NAMM 2024).
----
+<br> <!-- Add some space between tables -->
 
-### **ams AG (Semiconductors and sensors)** – Stokenchurch, UK
-**Digital Signal Processor Software Engineer**
-*September 2017 – December 2019*
+<table class="responsive-work-history-table">
+<tr>
+<td rowspan=2><strong>March 2015<br>September 2017</strong></td>
+<td><strong>Blackstar Amplification Ltd</strong> – Northampton, UK<br><strong>DSP Engineer</strong></td>
+</tr>
+<tr>
+<td>
+<ul>
+<li>Conduct R&D of non-linear digital audio processing algorithms.</li>
+<li>Bring impactful products to market:
+    <ul>
+    <li>ID\:Core digital amps: polyphonic octaver, looper, chorus/flanger, envelope filter.</li>
+    <li>Venue MkII hybrid amps: reverb, power amp simulation.</li>
+    <li>Unity bass amps: completely new design, bass distortion simulator, feedback compressor.</li>
+    </ul>
+</li>
+</ul>
+</td>
+</tr>
+</table>
 
-*   Implement adaptive hybrid Active Noise Cancellation (ANC) algorithms.
-*   Develop Automatic Leakage Compensation on the proprietary AS3460 chip.
-*   Drive product development from research simulation to finished product within one year, collaborating closely with acoustical engineering.
----
+<br> <!-- Add some space between tables -->
 
-### **Blackstar Amplification Ltd** – Northampton, UK
-**DSP Engineer**
-*March 2015 – September 2017*
+<table class="responsive-work-history-table">
+<tr>
+<td rowspan=2><strong>October 2013<br>March 2015</strong></td>
+<td><strong>ITDev Ltd</strong> – Southampton, UK<br><strong>Graduate Software Engineer</strong></td>
+</tr>
+<tr>
+<td>
+<ul>
+<li>Develop software projects using PHP, Python, JS, Perl, and embedded C.</li>
+<li>Serve as SCRUM master.</li>
+<li>Embedded development on video encoder systems.</li>
+</ul>
+</td>
+</tr>
+</table>
 
-*   Conduct R&D of non-linear digital audio processing algorithms.
-*   Bring impactful products to market:
-    *   ID\:Core digital amps: polyphonic octaver, looper, chorus/flanger, envelope filter.
-    *   Venue MkII hybrid amps: reverb, power amp simulation.
-    *   Unity bass amps: completely new design, bass distortion simulator, feedback compressor.
----
-
-### **ITDev Ltd** – Southampton, UK
-**Graduate Software Engineer**
-*October 2013 – March 2015*
-
-*   Develop software projects using PHP, Python, JS, Perl, and embedded C.
-*   Serve as SCRUM master.
-*   Embedded development on video encoder systems.
----
 
 ## Education and Qualifications
 
