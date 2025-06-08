@@ -17,3 +17,25 @@
 
 </div>
 
+---
+
+## I'm working on...
+
+<div style="display: flex; flex-wrap: wrap; justify-content: space-around; align-items: flex-start; gap: 20px; margin-top: 20px; margin-bottom: 20px;">
+
+  <div style="flex: 1 1 300px; max-width: 45%; min-width: 280px; text-align: center; box-sizing: border-box;">
+    <a href="projects.html#hitar">
+      <img src="assets/images/hitar_thumbnail.jpg" alt="HITar Project Thumbnail" style="height: 200px; width: auto; max-width: 100%; object-fit: cover; border-radius: 8px; margin-bottom: 10px;">
+    </a>
+    <h3 style="margin-top: 0;"><a href="projects.html#hitar">HITar - AI Augmented Guitar</a></h3>
+  </div>
+
+  <div style="flex: 1 1 300px; max-width: 45%; min-width: 280px; text-align: center; box-sizing: border-box;">
+    <a href="projects.html#meml">
+      <img src="assets/images/meml_thumbnail.jpg" alt="MEML Project Thumbnail" style="height: 200px; width: auto; max-width: 100%; object-fit: cover; border-radius: 8px; margin-bottom: 10px;">
+    </a>
+    <h3 style="margin-top: 0;"><a href="projects.html#meml">MEML - Musically Embedded ML</a></h3>
+  </div>
+
+</div>
+

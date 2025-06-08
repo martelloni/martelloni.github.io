@@ -5,7 +5,7 @@
 
 ## HITar
 
-Freedom of expression at your fingertips.
+**Freedom of expression at your fingertips.**
 
 <div style="text-align: center; margin-top: 15px; margin-bottom: 15px;">
   <img src="assets/images/hitar_jonjan.jpg" alt="Jonjan playing the HITar" style="width: 100%; max-width: 700px; display: block; margin-left: auto; margin-right: auto;">
@@ -102,6 +102,11 @@ We can bring my expertise into your company.
 ## MEML
 
 **Bridging AI and Artistry in Real-Time Musical Performance.**
+
+<div style="text-align: center; margin-top: 15px; margin-bottom: 15px;">
+  <img src="assets/images/meml_banner.jpg" alt="MEML logo and MEMLNaut" style="width: 100%; max-width: 700px; display: block; margin-left: auto; margin-right: auto;">
+  <p style="text-align: center; font-style: italic;">The MEMLNaut, our integrated hardware platform.</p>
+</div>
 
 While AI and Machine Learning are transforming music creation, many advanced models create a disconnect, distancing the intuitive act of performance from the technology. GenAI and large models often reduce musical interaction to prompts and clicks, bypassing the rich, nuanced control of a musician playing an instrument.
 
