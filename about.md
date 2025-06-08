@@ -4,6 +4,7 @@
 /* Mobile-first styles */
 .responsive-work-history-table {
   width: 100%;
+  display: table;
   /* border-collapse: collapse; /* Not strictly needed for display:block */
 }
 
