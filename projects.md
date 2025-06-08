@@ -18,15 +18,19 @@ Imagine triggering a loop with a tap on the guitar's side. Imagine playing amazi
 
 ### How does it work?
 
-<div style="text-align: center; margin-top: 15px; margin-bottom: 15px;">
-  <img src="assets/images/hitar_dots.jpg" alt="Intelligent Expression (iX) technology" style="width: 100%; max-width: 700px; display: block; margin-left: auto; margin-right: auto;">
-  <p style="text-align: center; font-style: italic;">Intelligent Expression (iX) technology extracts a robust, rich description of your finger taps in real time</p>
-</div>
+Our patent-applied-for Intelligent Expression (iX) technology extracts a robust, rich description of your finger taps in real time. It works all from within the guitar and it follows you wherever you want to go.
 
 * Real-time AI tracking your percussive taps, 3 years of R&D
 * Works from integrated contact pickups
 * Bespoke embedded AI platform for ultra-low latency
 * Built-in or retrofitted
+
+<div style="text-align: center; margin-top: 15px; margin-bottom: 15px;">
+  <a href="https://youtu.be/Yo0JVvWwU8c" target="_blank">
+    <img src="https://img.youtube.com/vi/Yo0JVvWwU8c/maxresdefault.jpg" alt="HITar Demo Video" style="width: 100%; max-width: 700px; display: block; margin-left: auto; margin-right: auto;">
+  </a>
+  <p style="text-align: center; font-style: italic;">HITar promo video starring <a href="https://jonjanofficial.com">Jonjan</a>. Click to watch on YouTube.</p>
+</div>
 
 ### Accolades, press coverage
 
