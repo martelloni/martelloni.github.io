@@ -58,7 +58,7 @@ I am an audio software engineer and researcher from the UK, with a PhD in Artifi
 
 My background includes bringing numerous products in professional and consumer electronics to fruition, from active noise-cancelling headphones and video encoders to guitar/bass amplifiers. My recent research in edge AI, including the development of the **MEML** framework for on-device training, has deepened my focus on the potential and challenges of deploying small, efficient AI models for real-time signal manipulation and gesture recognition. The **HITar**, an AI-augmented acoustic guitar and international award winner, exemplifies my commitment to designing responsive, intimate, and cutting-edge musical interactions. I thrive on leveraging deep technical expertise to create impactful and engaging user experiences.
 
-## Recent Work History
+## 💼 Recent Work History
 
 
 <table class="responsive-work-history-table">
@@ -153,7 +153,7 @@ My background includes bringing numerous products in professional and consumer e
 </table>
 
 
-## Education and Qualifications
+## 🎓 Education and Qualifications
 
 ### PhD Artificial Intelligence and Music
 **Queen Mary University of London, Centre for Digital Music**
@@ -233,7 +233,7 @@ Keras, ONNX, TFLite-micro
 
 ---
 
-## 🎸 Other Interests
+## 🏊 Other Interests
 
 * Extrovert and excellent communicator, confident in public speaking.
 * Keen cyclist, swimmer, runner; passionate cook.
