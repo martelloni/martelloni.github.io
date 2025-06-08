@@ -9,7 +9,7 @@ Freedom of expression at your fingertips.
 
 <div style="text-align: center; margin-top: 15px; margin-bottom: 15px;">
   <img src="assets/images/hitar_jonjan.jpg" alt="Jonjan playing the HITar" style="width: 100%; max-width: 700px; display: block; margin-left: auto; margin-right: auto;">
-  <p style="text-align: center; font-style: italic;">[Jonjan](https://jonjanofficial.com) playing the HITar</p>
+  <p style="text-align: center; font-style: italic;"><a href="https://jonjanofficial.com">Jonjan</a> playing the HITar</p>
 </div>
 
 Messy pedalboards. Barely controllable digital sets. Many devices that do one thing, and can do one wrong thing. The life of the modern musician is filled with great technology, controlled with not-so-great interfaces. The HITar demonstrates a revolutionary technology to control loops, percussion, effects, and tech straight from your guitar's body, with the musicality and nuance that you expect from your guitar.
@@ -33,22 +33,22 @@ Imagine triggering a loop with a tap on the guitar's side. Imagine playing amazi
 <div style="display: flex; flex-wrap: wrap; justify-content: center; margin-top: 15px; margin-bottom: 15px;">
 
   <div style="display: flex; flex-direction: column; align-items: center; text-align: center; padding: 10px; width: 30%; min-width: 220px; box-sizing: border-box;">
-    <div style="height: 60px; display: flex; align-items: center; justify-content: center; margin-bottom: 5px;">
-      <img src="assets/images/midi_innovation_awards.svg" alt="MIDI Innovation Awards Logo" style="height: 60px; background-color: white; max-width: 100%;">
+    <div style="height: 60px; display: flex; align-items: center; justify-content: center; margin-bottom: 5px; background-color: white; padding: 5px; border-radius: 5px;">
+      <img src="assets/images/midi_innovation_awards.svg" alt="MIDI Innovation Awards Logo" style="height: 60px; max-width: 100%;">
     </div>
     <a href="https://www.youtube.com/watch?v=UGrzDVyRYgg"><strong>MIDI Innovation Awards 2023</strong></a><br>Best hardware prototype
   </div>
 
   <div style="display: flex; flex-direction: column; align-items: center; text-align: center; padding: 10px; width: 30%; min-width: 220px; box-sizing: border-box;">
-    <div style="height: 60px; display: flex; align-items: center; justify-content: center; margin-bottom: 5px;">
-      <img src="assets/images/guthman.svg" alt="Guthman Musical Instrument Competition Logo" style="height: 30px; background-color: white; max-width: 100%;">
+    <div style="height: 60px; display: flex; align-items: center; justify-content: center; margin-bottom: 5px; background-color: white; padding: 5px; border-radius: 5px;">
+      <img src="assets/images/guthman.svg" alt="Guthman Musical Instrument Competition Logo" style="height: 30px; max-width: 100%;">
     </div>
     <a href="https://www.youtube.com/watch?v=2gYUdgnksj8"><strong>Guthman Competition 2023</strong></a><br>Third place
   </div>
 
   <div style="display: flex; flex-direction: column; align-items: center; text-align: center; padding: 10px; width: 30%; min-width: 220px; box-sizing: border-box;">
-    <div style="height: 60px; display: flex; align-items: center; justify-content: center; margin-bottom: 5px;">
-      <img src="assets/images/queen_mary_impact_fund.jpg" alt="Queen Mary Impact Fund Logo" style="height: 60px; background-color: white; max-width: 100%;">
+    <div style="height: 60px; display: flex; align-items: center; justify-content: center; margin-bottom: 5px; background-color: white; padding: 5px; border-radius: 5px;">
+      <img src="assets/images/queen_mary_impact_fund.jpg" alt="Queen Mary Impact Fund Logo" style="height: 60px; max-width: 100%;">
     </div>
     <strong>Queen Mary Impact Fund</strong><br>2x recipient
   </div>
@@ -56,19 +56,23 @@ Imagine triggering a loop with a tap on the guitar's side. Imagine playing amazi
 </div>
 
 Exhibited at:
-<div style="text-align: center;">
-  <table style="margin-left: auto; margin-right: auto; border-collapse: collapse;">
-    <tr>
-      <td style="text-align: center; padding: 10px; vertical-align: top;">
-        <img src="assets/images/namm.png" alt="NAMM Logo" style="height: 60px; background-color: white; display: block; margin-left: auto; margin-right: auto;">
-        <br>NAMM 2024
-      </td>
-      <td style="text-align: center; padding: 10px; vertical-align: top;">
-        <img src="assets/images/musicchina.jpg" alt="Music China Logo" style="height: 60px; background-color: white; display: block; margin-left: auto; margin-right: auto;">
-        <br>Music China 2023
-      </td>
-    </tr>
-  </table>
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; margin-top: 15px; margin-bottom: 15px;">
+
+  <div style="display: flex; flex-direction: column; align-items: center; text-align: center; padding: 10px; width: 45%; min-width: 220px; box-sizing: border-box;">
+    <div style="height: 60px; display: flex; align-items: center; justify-content: center; margin-bottom: 5px; background-color: white; padding: 5px; border-radius: 5px;">
+      <img src="assets/images/namm.png" alt="NAMM Logo" style="height: 60px; max-width: 100%;">
+    </div>
+    NAMM 2024
+  </div>
+
+  <div style="display: flex; flex-direction: column; align-items: center; text-align: center; padding: 10px; width: 45%; min-width: 220px; box-sizing: border-box;">
+    <div style="height: 60px; display: flex; align-items: center; justify-content: center; margin-bottom: 5px; background-color: white; padding: 5px; border-radius: 5px;">
+      <img src="assets/images/musicchina.jpg" alt="Music China Logo" style="height: 60px; max-width: 100%;">
+    </div>
+    Music China 2023
+  </div>
+
 </div>
 
 Press coverage:
