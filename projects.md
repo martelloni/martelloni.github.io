@@ -46,9 +46,18 @@ I can bring my expertise into your company.
 
 ## MEML
 
-AI and ML are revolutionising the way we make music; however, the more advanced AI models become, the more they get separated from the immediate and intuitive act of performing music. Large language models and GenAI increasingly give us the ability to "query" music through keyboard and mouse, side-stepping the subtle skills of musicians playing a musical instrument in the moment.
+**Bridging AI and Artistry in Real-Time Musical Performance.**
 
-Musically Embodied Machine Learning (MEML) is a project funded by UK AHRC to explore how we can build ML that benefits human-in-the-loop musical performance. We build ML instruments where ML is *in* the instrument, and the performer directly controls every aspect of it through their performance. We leverage our own small embedded ML framework and reinforcement learning paradigms, to make training and controlling ML parts of the musical performance. Our hardware and software technology is open-source and freely replicable. We build our instruments through collaborations with artists; we host seminars and workshops for developers and students.
+While AI and Machine Learning are transforming music creation, many advanced models create a disconnect, distancing the intuitive act of performance from the technology. GenAI and large models often reduce musical interaction to prompts and clicks, bypassing the rich, nuanced control of a musician playing an instrument.
+
+**MEML (Musically Embodied Machine Learning)** directly addresses this challenge. Funded by UK AHRC, our project isn't just about applying AI to music; it's about **embedding intelligent systems directly *within* musical instruments.** We empower performers by making AI an integral, controllable part of their live expression, allowing the instrument to learn and respond to their unique playing style in real-time.
+
+**Our Approach & Technical Innovation:**
+*   **Problem-Driven Solution:** We identified the growing gap between powerful AI and expressive musical control, and engineered a solution to bridge it.
+*   **Custom Embedded AI/ML:** We developed a bespoke C++ framework for ML training and inference, optimized for ultra-low latency and real-time operation on resource-constrained embedded platforms. This demonstrates expertise in creating efficient, from-scratch solutions for resource-constrained environments.
+*   **Interactive Reinforcement Learning:** We leverage reinforcement learning paradigms enabling AI models to be trained and adapted *during* the performance. This showcases practical application of advanced ML in dynamic, human-in-the-loop systems.
+*   **Open & Collaborative:** Our hardware and software are open-source, fostering innovation through artist collaborations and educational workshops.
+
 
 ### Members
 
@@ -62,4 +71,4 @@ Musically Embodied Machine Learning (MEML) is a project funded by UK AHRC to exp
 * [memllib](https://github.com/MusicallyEmbodiedML/memllib) - A library to get started with embedded AI development on the RP2350 (Raspberry Pi Pico 2)
 
 
-### Main website
+### [Main website](https://users.sussex.ac.uk/~ck84/meml/)
