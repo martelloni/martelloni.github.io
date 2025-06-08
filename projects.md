@@ -38,5 +38,28 @@ Press coverage:
 ### ...it can be in [YOUR](https://www.linkedin.com/in/andrea-martelloni-7ab10a60) guitar.
 
 I can build a HITar for you.
+<br>
 I can help you make HITar a reality for your product line.
-I can bring my expertise in your company.
+<br>
+I can bring my expertise into your company.
+
+
+## MEML
+
+AI and ML are revolutionising the way we make music; however, the more advanced AI models become, the more they get separated from the immediate and intuitive act of performing music. Large language models and GenAI increasingly give us the ability to "query" music through keyboard and mouse, side-stepping the subtle skills of musicians playing a musical instrument in the moment.
+
+Musically Embodied Machine Learning (MEML) is a project funded by UK AHRC to explore how we can build ML that benefits human-in-the-loop musical performance. We build ML instruments where ML is *in* the instrument, and the performer directly controls every aspect of it through their performance. We leverage our own small embedded ML framework and reinforcement learning paradigms, to make training and controlling ML parts of the musical performance. Our hardware and software technology is open-source and freely replicable. We build our instruments through collaborations with artists; we host seminars and workshops for developers and students.
+
+### Members
+
+[Chris Kiefer](https://www.linkedin.com/in/chris-kiefer-a2b46611a/), principal investigator
+<br>
+[Andrea Martelloni](https://www.linkedin.com/in/andrea-martelloni-7ab10a60), PDRF and software engineer
+
+### The MEML framework
+
+* [meMLP](https://github.com/MusicallyEmbodiedML/memlp) - An embedded-first C++ ML/AI training and inference library with first-class support for reinforcement learning
+* [memllib](https://github.com/MusicallyEmbodiedML/memllib) - A library to get started with embedded AI development on the RP2350 (Raspberry Pi Pico 2)
+
+
+### Main website
