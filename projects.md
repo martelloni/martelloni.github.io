@@ -20,20 +20,49 @@ Imagine triggering a loop with a tap on the guitar's side. Imagine playing amazi
 
 ### Accolades, press coverage
 
-MIDI Innovation Awards 2023 -- Best hardware prototype
-
-Guthman Musical Instrument Competition 2023 -- Third place
+<div style="text-align: center;">
+  <table style="margin-left: auto; margin-right: auto; border-collapse: collapse;">
+    <tr>
+      <td style="text-align: center; padding: 10px; vertical-align: center;">
+        <img src="assets/images/midi_innovation_awards.svg" alt="MIDI Innovation Awards Logo" style="height: 60px; background-color: white; display: block; margin-left: auto; margin-right: auto;">
+      </td>
+      <td style="text-align: center; padding: 10px; vertical-align: center;">
+        <img src="assets/images/guthman.svg" alt="Guthman Musical Instrument Competition Logo" style="height: 30px; background-color: white; display: block; margin-left: auto; margin-right: auto;">
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align: center; padding: 10px; vertical-align: top;">
+        <a href="https://www.youtube.com/watch?v=UGrzDVyRYgg"><strong>MIDI Innovation Awards 2023</strong></a><br>Best hardware prototype
+      </td>
+      <td style="text-align: center; padding: 10px; vertical-align: top;">
+        <a href="https://www.youtube.com/watch?v=2gYUdgnksj8"><strong>Guthman Musical Instrument Competition 2023</strong></a><br>Third place
+      </td>
+    </tr>
+  </table>
+</div>
 
 Exhibited at:
-* NAMM 2024
-* Music China 2023
+<div style="text-align: center;">
+  <table style="margin-left: auto; margin-right: auto; border-collapse: collapse;">
+    <tr>
+      <td style="text-align: center; padding: 10px; vertical-align: top;">
+        <img src="assets/images/namm.png" alt="NAMM Logo" style="height: 60px; background-color: white; display: block; margin-left: auto; margin-right: auto;">
+        <br>NAMM 2024
+      </td>
+      <td style="text-align: center; padding: 10px; vertical-align: top;">
+        <img src="assets/images/musicchina.jpg" alt="Music China Logo" style="height: 60px; background-color: white; display: block; margin-left: auto; margin-right: auto;">
+        <br>Music China 2023
+      </td>
+    </tr>
+  </table>
+</div>
 
 Press coverage:
-* Reuters
-* Computer Times
-* Rai TG Leonardo
-* Sic Noticias
-* The Economic Times
+* [Reuters](https://www.reuters.com/lifestyle/will-ai-mean-death-music-or-herald-new-era-creativity-2024-02-01/)
+* [Computer Times](https://computertimes.com/2024/02/04/namm-2024/)
+* [The Economic Times](https://economictimes.indiatimes.com/tech/technology/will-ai-mean-the-death-of-music-or-herald-a-new-era-of-creativity/articleshow/107348565.cms?from=mdr)
+* [Sic Noticias](https://sicnoticias.pt/olhares-pelo-mundo/2024-02-04-Inteligencia-Artificial-a-morte-da-musica-ou-uma-nova-era-de-criatividade--9a191943)
+* [Rai TG Leonardo]()
 
 ### ...it can be in [YOUR](https://www.linkedin.com/in/andrea-martelloni-7ab10a60) guitar.
 
