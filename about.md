@@ -50,6 +50,42 @@
   /* The description cell (in the second row) will automatically fall into the second column
      and adopt its width due to table-layout:fixed and the rowspan from the date cell. */
 }
+
+/* Styles for skill word cloud */
+.skill-category-content {
+  margin-top: 0.25em;
+  margin-bottom: 1em; /* Space between categories */
+}
+.skill-line {
+  margin-bottom: 0.25em; /* Space between proficiency lines */
+  line-height: 1.6; /* Adjust for better readability if skills wrap */
+}
+.skill-item {
+  display: inline-block;
+  padding: 0.2em 0.5em;
+  margin: 0.2em;
+  border-radius: 4px;
+  background-color: #f0f0f0; /* Default background for items */
+  line-height: 1.2; /* For the text inside the span */
+  text-decoration: none; /* Remove underline if it's a link */
+  color: #333; /* Default text color */
+}
+.skill-strong {
+  font-size: 1.15em; /* Larger for strong */
+  font-weight: 600;
+  background-color: #ddeeff; /* Different bg for emphasis */
+}
+.skill-medium {
+  font-size: 1.0em;
+  font-weight: 500;
+  background-color: #eef8ee;
+}
+.skill-light {
+  font-size: 0.9em;
+  font-weight: 400;
+  color: #555;
+  background-color: #f9f9f9;
+}
 </style>
 
 # About
@@ -182,25 +218,26 @@ My background includes bringing numerous products in professional and consumer e
 
 ## 🛠️ Skills and Achievements
 
-* **Languages:**
-<br>
-C++, C, Python, ARM Assembly
-<br>
-Javascript, PHP, Perl
-<br>
-Ruby, Rust, Coffeescript
+**Languages:**
+<div class="skill-category-content">
+  <div class="skill-line"><span class="skill-item skill-strong">C++</span> <span class="skill-item skill-strong">C</span> <span class="skill-item skill-strong">Python</span> <span class="skill-item skill-strong">ARM Assembly</span></div>
+  <div class="skill-line"><span class="skill-item skill-medium">Javascript</span> <span class="skill-item skill-medium">PHP</span> <span class="skill-item skill-medium">Perl</span></div>
+  <div class="skill-line"><span class="skill-item skill-light">Ruby</span> <span class="skill-item skill-light">Rust</span> <span class="skill-item skill-light">Coffeescript</span></div>
+</div>
 
-* **Hardware platforms:**
-<br>
-ARM Cortex-M, XMOS, x86
-<br>
-Xtensa HiFi3, ARM Cortex-A, SHARC
+**Hardware platforms:**
+<div class="skill-category-content">
+  <div class="skill-line"><span class="skill-item skill-strong">ARM Cortex-M</span> <span class="skill-item skill-strong">XMOS</span> <span class="skill-item skill-strong">x86</span></div>
+  <div class="skill-line"><span class="skill-item skill-medium">Xtensa HiFi3</span> <span class="skill-item skill-medium">ARM Cortex-A</span> <span class="skill-item skill-medium">SHARC</span></div>
+  <!-- Add a skill-light line if there are any hardware platforms with little experience -->
+</div>
 
-* **AI platforms**
-<bn>
-Pytorch, Torchlib
-<br>
-Keras, ONNX, TFLite-micro
+**AI platforms**
+<div class="skill-category-content">
+  <div class="skill-line"><span class="skill-item skill-strong">Pytorch</span> <span class="skill-item skill-strong">Torchlib</span></div>
+  <div class="skill-line"><span class="skill-item skill-medium">Keras</span> <span class="skill-item skill-medium">ONNX</span> <span class="skill-item skill-medium">TFLite-micro</span></div>
+  <!-- Add a skill-light line if there are any AI platforms with little experience -->
+</div>
 
 * **DSP Concepts:**
   * Fixed-point signal chains
@@ -217,7 +254,7 @@ Keras, ONNX, TFLite-micro
   * Unit testing: microunit, catch2, unity
   * Continuous integration: Jenkins
   * Automated DSP testing with CI pipelines
-  * Native C++ <-> Python integration via Boost::Python, PyBind11
+  * Native C++ &leftrightarrow; Python integration via Boost::Python, PyBind11
 
 * **ML/AI Concepts:**
   * ML from scratch in embedded C++: backpropagation, optimisation
