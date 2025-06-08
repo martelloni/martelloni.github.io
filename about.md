@@ -160,6 +160,7 @@ My background includes bringing numerous products in professional and consumer e
 *September 2019 – April 2025*
 
 *   *Thesis:* “Augmenting an acoustic guitar for percussive fingerstyle”
+
 ---
 
 ### MSc Sound and Vibration Studies *(with Merit)*
@@ -167,6 +168,7 @@ My background includes bringing numerous products in professional and consumer e
 *September 2012 – September 2013*
 
 *   *Dissertation:* Refining an FDTD acoustic model for room auralisation with OPSODIS Ltd
+
 ---
 
 ### BSc Informatica Musicale (Musical Information Technology)
@@ -175,6 +177,7 @@ My background includes bringing numerous products in professional and consumer e
 
 *   *Grade:* 110/110 cum laude
 *   *Dissertation:* Further evidences of the contribution of the ear canal to directional hearing
+
 ---
 
 ## 🛠️ Skills and Achievements
