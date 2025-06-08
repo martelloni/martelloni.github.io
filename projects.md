@@ -127,3 +127,9 @@ While AI and Machine Learning are transforming music creation, many advanced mod
 
 
 ### [Main website](https://users.sussex.ac.uk/~ck84/meml/)
+
+
+## Other projects
+
+* [DSP Unittest Tutorial](https://github.com/martelloni/dsp_unittest_tutorial) - Step-by-step tutorial to run tests on C/C++ code from Python, with minimal library to get you productive in no time.
+* [Virtual membrane](https://github.com/martelloni/virtualmembrane) - Simulation of a 2D membrane using a hexagonal mesh and digital waveguide modelling, C++ implementation for PC and Bela. Implements: Laird, J.A., 2001. The physical modelling of drums using digital waveguides (Doctoral dissertation, University of Bristol).

@@ -55,6 +55,7 @@
 .skill-category-content {
   margin-top: 0.25em;
   margin-bottom: 1em; /* Space between categories */
+  text-align: center; /* Center the content */
 }
 .skill-line {
   margin-bottom: 0.25em; /* Space between proficiency lines */
@@ -106,7 +107,7 @@ My background includes bringing numerous products in professional and consumer e
 <td>
 <ul>
 <li>Research <a href="projects.html#meml">Musically Embodied Machine Learning</a> and train AI models through musical interfaces in real time on RP2350 and XMOS Xcore.ai embedded platforms.</li>
-<li>Create <strong>meMLP</strong>, an edge AI library with support for RL and on-device training.</li>
+<li>Create <a href="https://github.com/MusicallyEmbodiedML/memlp"><strong>meMLP</strong></a>, an edge AI library with support for RL and on-device training.</li>
 </ul>
 </td>
 </tr>
@@ -122,7 +123,7 @@ My background includes bringing numerous products in professional and consumer e
 <tr>
 <td>
 <ul>
-<li>Spearhead commercialisation of the HITar: protect IP, devise business model and sales funnel, and drive customer engagement.</li>
+<li>Spearhead commercialisation of the <a href="projects.html#HITar">HITar</a>: protect IP, devise business model and sales funnel, and drive customer engagement.</li>
 <li>Exhibit the HITar at trade shows (Music China 2023, NAMM 2024).</li>
 </ul>
 </td>
@@ -140,7 +141,7 @@ My background includes bringing numerous products in professional and consumer e
 <td>
 <ul>
 <li>Implement adaptive hybrid Active Noise Cancellation (ANC) algorithms.</li>
-<li>Develop Automatic Leakage Compensation on the proprietary AS3460 chip.</li>
+<li>Develop Automatic Leakage Compensation on the proprietary <a href="https://ams-osram.com/products/sensor-solutions/active-noise-cancellation/ams-as3460">AS3460 chip</a>.</li>
 <li>Drive product development from research simulation to finished product within one year, collaborating closely with acoustical engineering.</li>
 </ul>
 </td>
@@ -160,9 +161,9 @@ My background includes bringing numerous products in professional and consumer e
 <li>Conduct R&D of non-linear digital audio processing algorithms.</li>
 <li>Bring impactful products to market:
     <ul>
-    <li>ID\:Core digital amps: polyphonic octaver, looper, chorus/flanger, envelope filter.</li>
-    <li>Venue MkII hybrid amps: reverb, power amp simulation.</li>
-    <li>Unity bass amps: completely new design, bass distortion simulator, feedback compressor.</li>
+    <li><a href="https://blackstaramps.com/idcore-v4/">ID:Core</a> digital amps: polyphonic octaver, looper, chorus/flanger, envelope filter.</li>
+    <li><a href="https://blackstaramps.com/ht-venue-mkii/">Venue MkII</a> hybrid amps: reverb, power amp simulation.</li>
+    <li><a href="https://blackstaramps.com/unity/">Unity</a> bass amps: completely new design, bass distortion simulator, feedback compressor.</li>
     </ul>
 </li>
 </ul>
@@ -187,34 +188,6 @@ My background includes bringing numerous products in professional and consumer e
 </td>
 </tr>
 </table>
-
-
-## 🎓 Education and Qualifications
-
-### PhD Artificial Intelligence and Music
-**Queen Mary University of London, Centre for Digital Music**
-*September 2019 – April 2025*
-
-*   *Thesis:* “Augmenting an acoustic guitar for percussive fingerstyle”
-
----
-
-### MSc Sound and Vibration Studies *(with Merit)*
-**University of Southampton, Institute of Sound and Vibration Research**
-*September 2012 – September 2013*
-
-*   *Dissertation:* Refining an FDTD acoustic model for room auralisation with OPSODIS Ltd
-
----
-
-### BSc Informatica Musicale (Musical Information Technology)
-**Università degli Studi di Milano**
-*September 2009 – September 2012*
-
-*   *Grade:* 110/110 cum laude
-*   *Dissertation:* Further evidences of the contribution of the ear canal to directional hearing
-
----
 
 ## 🛠️ Skills and Achievements
 
@@ -270,7 +243,54 @@ My background includes bringing numerous products in professional and consumer e
 
 ---
 
+## 🎓 Education and Qualifications
+
+### PhD Artificial Intelligence and Music
+**Queen Mary University of London, Centre for Digital Music**
+*September 2019 – April 2025*
+
+*   *Thesis:* “Augmenting an acoustic guitar for percussive fingerstyle”
+
+---
+
+### MSc Sound and Vibration Studies *(with Merit)*
+**University of Southampton, Institute of Sound and Vibration Research**
+*September 2012 – September 2013*
+
+*   *Dissertation:* Refining an FDTD acoustic model for room auralisation with OPSODIS Ltd
+
+---
+
+### BSc Informatica Musicale (Musical Information Technology)
+**Università degli Studi di Milano**
+*September 2009 – September 2012*
+
+*   *Grade:* 110/110 cum laude
+*   *Dissertation:* Further evidences of the contribution of the ear canal to directional hearing
+
+---
+
 ## 🏊 Other Interests
 
 * Extrovert and excellent communicator, confident in public speaking.
 * Keen cyclist, swimmer, runner; passionate cook.
+
+---
+
+## 📚 Publications
+
+Martelloni, A. and Kiefer, C., 2024. Musically Embedded Machine Learning (MEML) Demo. In CHIME 2024
+
+Kiefer, C. and Martelloni, A., 2024. Musically Embedded Machine Learning Workshop. In CHIME 2024
+
+Armitage, J., Shepardson, V., Privato, N., Pelinski, T., Benito Temprano, A.L., Wolstanholme, L., Martelloni, A., Caspe, F.S., Reed, C.N., Skach, S. and Diaz, R., 2023, August. Agential Instruments Design Workshop. 4th International Conference on AI and Music Creativity (AIMC).
+
+Martelloni, A., McPherson, A. and Barthet, M., 2023, November. Real-Time Percussive Technique Recognition and Embedding Learning for the Acoustic Guitar. In ISMIR 2023
+
+Reed, C.N., Nordmoen, C., Martelloni, A., Lepri, G., Robson, N., Zayas-Garin, E., Cotton, K. and McPherson, A., 2022, June. Exploring experiences with new musical instruments through micro-phenomenology. In NIME 2022.
+
+Martelloni, A., McPherson, A. and Barthet, M., 2021, April. Guitar augmentation for Percussive Fingerstyle: Combining self-reflexive practice and user-centred design. In NIME 2021.
+
+Martelloni, A., McPherson, A. and Barthet, M., 2020. Percussive Fingerstyle Guitar through the Lens of NIME: an Interview Study. In NIME 2020.
+
+Martelloni, A., Mauro, D.A. and Mancuso, A., 2013, June. Further evidences of the contribution of the ear canal to directional hearing: design of a compensation filter. In Proceedings of Meetings on Acoustics (Vol. 19, No. 1). AIP Publishing.
