@@ -182,34 +182,54 @@ My background includes bringing numerous products in professional and consumer e
 
 ## 🛠️ Skills and Achievements
 
-* **Languages:** C, C++, Assembly
-* **Platforms:** ARM Cortex M0/M4/M33, Xtensa HiFi3, XMOS, x86, SHARC
-* **DSP Algorithms:**
+* **Languages:**
+<br>
+C++, C, Python, ARM Assembly
+<br>
+Javascript, PHP, Perl
+<br>
+Ruby, Rust, Coffeescript
 
+* **Hardware platforms:**
+<br>
+ARM Cortex-M, XMOS, x86
+<br>
+Xtensa HiFi3, ARM Cortex-A, SHARC
+
+* **AI platforms**
+<bn>
+Pytorch, Torchlib
+<br>
+Keras, ONNX, TFLite-micro
+
+* **DSP Concepts:**
+  * Fixed-point signal chains
   * Filtered-X LMS
   * Optimised fixed-point STFT
   * Multi-rate processing
-  * Neural networks with backpropagation
-* **Audio Effects:**
 
+* **Audio Effects:**
   * Pitch shifting, reverb, fuzz
-  * Complex analog modelling
+  * Model analogue gain stages
   * Feedback/feed-forward compressors
   * Complex real-time chains on constrained DSPs
-* **Tooling & Testing:**
-
+* **Toolchains & Testing:**
+  * Unit testing: microunit, catch2, unity
+  * Continuous integration: Jenkins
   * Automated DSP testing with CI pipelines
-  * Native Python integration with C++ via Boost::Python, PyBind11
-* **Machine Learning:**
+  * Native C++ <-> Python integration via Boost::Python, PyBind11
 
-  * Deep Learning for Musical Interfaces
-  * CNNs, CRNNs, VAEs, DDPG in embedded C++
-  * PyTorch deployment in VST, Max/MSP externals, edge platforms
+* **ML/AI Concepts:**
+  * ML from scratch in embedded C++: backpropagation, optimisation
+  * CNNs, CRNNs, VAEs in embedded real-time AI
+  * Reinforcement learning: deep deterministic policy gradient (DDPG)
+  * Multi-threaded deployment into VST, Max/MSP, ARM-based edge platforms
+
 * **Acoustics:**
-
   * FF/FB noise cancellation
   * Room modelling (FDTD, FEM, Digital Waveguide)
-  * Tools: MATLAB, Python, COMSOL
+  * Spatial hearing and psychoacoustics
+  * Acoustic simulation: MATLAB, CATT-Acoustic, COMSOL
 
 ---
 
