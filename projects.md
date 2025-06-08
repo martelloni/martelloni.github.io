@@ -7,11 +7,21 @@
 
 Freedom of expression at your fingertips.
 
+<div style="text-align: center; margin-top: 15px; margin-bottom: 15px;">
+  <img src="assets/images/hitar_jonjan.jpg" alt="Jonjan playing the HITar" style="width: 100%; max-width: 700px; display: block; margin-left: auto; margin-right: auto;">
+  <p style="text-align: center; font-style: italic;">[Jonjan](https://jonjanofficial.com) playing the HITar</p>
+</div>
+
 Messy pedalboards. Barely controllable digital sets. Many devices that do one thing, and can do one wrong thing. The life of the modern musician is filled with great technology, controlled with not-so-great interfaces. The HITar demonstrates a revolutionary technology to control loops, percussion, effects, and tech straight from your guitar's body, with the musicality and nuance that you expect from your guitar.
 
 Imagine triggering a loop with a tap on the guitar's side. Imagine playing amazing drums alongside your song, all without missing a note. Stadium-ready performances coming just from your fingers and from your instrument. The HITar is all this, and much more.
 
 ### How does it work?
+
+<div style="text-align: center; margin-top: 15px; margin-bottom: 15px;">
+  <img src="assets/images/hitar_dots.jpg" alt="Intelligent Expression (iX) technology" style="width: 100%; max-width: 700px; display: block; margin-left: auto; margin-right: auto;">
+  <p style="text-align: center; font-style: italic;">Intelligent Expression (iX) technology extracts a robust, rich description of your finger taps in real time</p>
+</div>
 
 * Real-time AI tracking your percussive taps, 3 years of R&D
 * Works from integrated contact pickups
@@ -36,6 +46,16 @@ Imagine triggering a loop with a tap on the guitar's side. Imagine playing amazi
       </td>
       <td style="text-align: center; padding: 10px; vertical-align: top;">
         <a href="https://www.youtube.com/watch?v=2gYUdgnksj8"><strong>Guthman Musical Instrument Competition 2023</strong></a><br>Third place
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" style="text-align: center; padding: 10px; vertical-align: center;">
+        <img src="assets/images/queen_mary_impact_fund.jpg" alt="Queen Mary Impact Fund Logo" style="height: 60px; background-color: white; display: block; margin-left: auto; margin-right: auto;">
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" style="text-align: center; padding: 10px; vertical-align: top;">
+        <strong>Queen Mary Impact Fund</strong><br>2x recipient
       </td>
     </tr>
   </table>
@@ -64,13 +84,21 @@ Press coverage:
 * [Sic Noticias](https://sicnoticias.pt/olhares-pelo-mundo/2024-02-04-Inteligencia-Artificial-a-morte-da-musica-ou-uma-nova-era-de-criatividade--9a191943)
 * [Rai TG Leonardo]()
 
+## Team
+
+[Andrea Martelloni](https://www.linkedin.com/in/andrea-martelloni-7ab10a60), inventor and software engineer
+<br>
+[Mathieu Barthet](https://uk.linkedin.com/in/mathieu-barthet), co-founding partner
+<br>
+[Andrew McPherson](https://uk.linkedin.com/in/andrewpmcpherson), advisor
+
 ### ...it can be in [YOUR](https://www.linkedin.com/in/andrea-martelloni-7ab10a60) guitar.
 
-I can build a HITar for you.
+We can build a HITar for you.
 <br>
-I can help you make HITar a reality for your product line.
+We can help you make HITar a reality for your product line.
 <br>
-I can bring my expertise into your company.
+We can bring my expertise into your company.
 
 
 ## MEML
@@ -88,7 +116,7 @@ While AI and Machine Learning are transforming music creation, many advanced mod
 *   **Open & Collaborative:** Our hardware and software are open-source, fostering innovation through artist collaborations and educational workshops.
 
 
-### Members
+### Team
 
 [Chris Kiefer](https://www.linkedin.com/in/chris-kiefer-a2b46611a/), principal investigator
 <br>
