@@ -4,8 +4,7 @@
 
   <!-- Image Section -->
   <div style="flex: 1 1 280px; max-width: 400px; text-align: center; margin-bottom: 20px;">
-    <img src="assets/images/iceland.jpg" alt="Iceland landscape" style="border-radius: 50%; width: 100%; max-width: 280px; aspect-ratio: 1; object-fit: cover; display: block; margin-left: auto; margin-right: auto;"/>
-    <p style="font-style: italic; margin-top: 10px; font-size: 0.9em;">Beautiful landscapes from Iceland</p>
+    <img src="assets/images/me.jpg" alt="Iceland landscape" style="border-radius: 50%; width: 100%; max-width: 280px; aspect-ratio: 1; object-fit: cover; display: block; margin-left: auto; margin-right: auto;"/>
   </div>
 
   <!-- Text Section -->
