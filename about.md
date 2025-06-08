@@ -105,7 +105,7 @@ My background includes bringing numerous products in professional and consumer e
 <tr>
 <td>
 <ul>
-<li>Research Musically Embodied Machine Learning and train AI models through musical interfaces in real time on RP2350 and XMOS Xcore.ai embedded platforms.</li>
+<li>Research <a href="projects.html#meml">Musically Embodied Machine Learning</a> and train AI models through musical interfaces in real time on RP2350 and XMOS Xcore.ai embedded platforms.</li>
 <li>Create <strong>meMLP</strong>, an edge AI library with support for RL and on-device training.</li>
 </ul>
 </td>
