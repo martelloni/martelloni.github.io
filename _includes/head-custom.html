@@ -44,16 +44,63 @@ a:hover {
     color: var(--link-hover-color);
 }
 
-/* Navigation links styling */
-header a {
-    color: var(--link-color);
+/* Navigation links styling - more specific selectors */
+header a,
+.markdown-body a,
+main a,
+body a {
+    color: var(--link-color) !important;
     text-decoration: none;
     transition: color 0.3s ease;
 }
 
-header a:hover {
-    color: var(--link-hover-color);
+header a:hover,
+.markdown-body a:hover,
+main a:hover,
+body a:hover {
+    color: var(--link-hover-color) !important;
     text-decoration: underline;
+}
+
+/* Override GitHub Pages default styling */
+.markdown-body {
+    background-color: var(--bg-color) !important;
+    color: var(--text-color) !important;
+}
+
+/* Fix table styling in both themes */
+.markdown-body table,
+.responsive-work-history-table {
+    background-color: var(--bg-color) !important;
+    color: var(--text-color) !important;
+}
+
+.markdown-body table th,
+.markdown-body table td,
+.responsive-work-history-table th,
+.responsive-work-history-table td {
+    background-color: var(--bg-color) !important;
+    color: var(--text-color) !important;
+    border-color: var(--border-color) !important;
+}
+
+/* Ensure all text in dark mode uses theme colors */
+[data-theme="dark"] * {
+    color: var(--text-color) !important;
+}
+
+[data-theme="dark"] .markdown-body {
+    background-color: var(--bg-color) !important;
+    color: var(--text-color) !important;
+}
+
+/* But keep links styled correctly */
+[data-theme="dark"] a {
+    color: var(--link-color) !important;
+}
+
+[data-theme="dark"] a:hover {
+    color: var(--link-hover-color) !important;
 }
 
 /* Theme switcher button */
