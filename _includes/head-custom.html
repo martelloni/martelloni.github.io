@@ -44,6 +44,18 @@ a:hover {
     color: var(--link-hover-color);
 }
 
+/* Navigation links styling */
+header a {
+    color: var(--link-color);
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+header a:hover {
+    color: var(--link-hover-color);
+    text-decoration: underline;
+}
+
 /* Theme switcher button */
 .theme-switcher {
     cursor: pointer;
@@ -65,6 +77,13 @@ a:hover {
 
 /* Ensure images adapt in dark mode */
 [data-theme="dark"] img {
+    opacity: 0.9;
+}
+
+/* Fix shield badges in dark mode */
+[data-theme="dark"] img[src*="shields.io"],
+[data-theme="dark"] img[src*="img.shields.io"] {
+    filter: invert(1) hue-rotate(180deg);
     opacity: 0.9;
 }
 </style>
