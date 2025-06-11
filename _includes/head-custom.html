@@ -89,6 +89,27 @@ body a:hover {
     color: var(--text-color) !important;
 }
 
+/* Exception: Keep skill items with their original styling in both themes */
+[data-theme="dark"] .skill-item {
+    color: #333 !important;
+    background-color: #f0f0f0 !important;
+}
+
+[data-theme="dark"] .skill-item.skill-strong {
+    color: #333 !important;
+    background-color: #ddeeff !important;
+}
+
+[data-theme="dark"] .skill-item.skill-medium {
+    color: #333 !important;
+    background-color: #eef8ee !important;
+}
+
+[data-theme="dark"] .skill-item.skill-light {
+    color: #555 !important;
+    background-color: #f9f9f9 !important;
+}
+
 [data-theme="dark"] .markdown-body {
     background-color: var(--bg-color) !important;
     color: var(--text-color) !important;
